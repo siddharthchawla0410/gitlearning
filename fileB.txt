@@ -1,1 +1,2 @@
 Added fileB.txt
+stash
