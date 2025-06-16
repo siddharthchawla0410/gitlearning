@@ -1,1 +1,2 @@
 From branch A
+Updated
